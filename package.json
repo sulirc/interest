@@ -6,10 +6,11 @@
   "author": "sulirc",
   "license": "MIT",
   "scripts": {
-		"test": "ava"
-	},
+    "test": "ava"
+  },
   "dependencies": {
     "ava": "^3.5.0",
+    "puppeteer-core": "^2.1.1",
     "socket.io": "^2.3.0"
   }
 }
