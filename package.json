@@ -1,0 +1,15 @@
+{
+  "name": "interest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sulirc/interest.git",
+  "author": "sulirc",
+  "license": "MIT",
+  "scripts": {
+		"test": "ava"
+	},
+  "dependencies": {
+    "ava": "^3.5.0",
+    "socket.io": "^2.3.0"
+  }
+}
